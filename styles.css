@@ -1,0 +1,45 @@
+h2 {
+background-color:  rgb(175, 106, 106);
+ color: white;
+ text-align: center;
+
+}
+#photo{
+    text-align: center;
+}
+#links{
+    text-align: center;
+    
+}
+#git{
+    border:2px solid gray;
+    border-radius: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+*{
+    background-color: lightgrey;
+}
+#me{
+    border:2px solid gray;
+    border-radius:35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+#info{
+   
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 10px;
+    
+}
+h1{
+    text-align: center;
+    border-bottom: solid;
+
+    
+}
